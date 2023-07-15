@@ -1,5 +1,0 @@
-pandasai
-seaborn
-matplotlib
-pandas
-
