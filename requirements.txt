@@ -2,5 +2,4 @@ pandasai
 seaborn
 matplotlib
 pandas
-streamlit
-inotify
+
